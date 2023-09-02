@@ -1,4 +1,4 @@
-# Email List Domain Cleaner (Executable Version)
+# Email List Domain Cleaner 
 
 This executable version of the Email List Domain Cleaner allows you to clean a list of email addresses by removing unwanted domains and suffixes. It provides a user-friendly interface for specifying the domains and suffixes to keep. The cleaned email addresses are then saved to an output file.
 ## Screenshot
@@ -18,7 +18,7 @@ Follow these steps to use the executable version:
 
 3. **Input File**
 
-   You will be prompted to enter the path to the input file containing a list of email addresses. The file should contain one email address per line.
+   You will be prompted to enter file containing a list of email addresses. The file should contain one email address per line and in same directory.
 
 4. **Domains to Keep**
 
