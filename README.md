@@ -18,7 +18,7 @@ Follow these steps to use the executable version:
 
 3. **Input File**
 
-   You will be prompted to enter file containing a list of email addresses. The file should contain one email address per line and in same directory.
+   You will be prompted to enter file containing a list of email addresses. The file should contain one email address per line and in the same directory.
 
 4. **Domains to Keep**
 
