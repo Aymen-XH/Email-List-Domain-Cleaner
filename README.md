@@ -50,10 +50,8 @@ Here's an example of how the executable can be used:
 
 The executable will process the input file, keep only the email addresses with the domain `gmail.com`, and save the cleaned list to `cleaned_emails.txt`.
 
-## Notes
+## Note
 
-- The executable version offers the same functionality as the Python script but does not require you to have Python installed on your system.
+Make sure the mail list text file and the `List Cleaner.exe` program are in the same directory for the program to work correctly.
 
-- If you have any questions or encounter issues, please feel free to open an issue in this GitHub repository for assistance.
-
-Enjoy using the Email List Domain Cleaner executable!
+Happy cleaning!
